@@ -34,4 +34,4 @@
     python app.py
     ```
  
- 2. Accéder à l'interface graphique via l'url : `[http://](http://127.0.0.1:5000)`
+ 2. Accéder à l'interface graphique via l'url : `http://http://127.0.0.1:5000`
